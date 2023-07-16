@@ -1,5 +1,0 @@
-﻿{
-  "Description": "File di verifica della proprietà del dominio per Microsoft 365 - posizionato nella radice del sito Web",
-  "Domain": "urmomlikes.me",
-  "Id": "86b36fbf-ea0c-427f-9229-6927f5e8a8da"
-}
